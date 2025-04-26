@@ -1,7 +1,4 @@
 {
-  "name": "hangover-club",
-  "version": "0.1.0",
-  "engines": {
-    "node": ">=14.0.0"
-  }
+  "framework": "nextjs"
 }
+
