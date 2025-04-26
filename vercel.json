@@ -1,7 +1,6 @@
 {
   "name": "hangover-club",
   "version": "0.1.0",
-  "private": true,
   "engines": {
     "node": ">=14.0.0"
   }
