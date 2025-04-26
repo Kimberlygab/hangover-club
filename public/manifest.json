@@ -1,0 +1,22 @@
+{
+  "name": "Hangover Club",
+  "short_name": "Hangover",
+  "description": "Gamifique sua bebedeira!",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#2d1b4d",
+  "theme_color": "#6b46c1",
+  "icons": [
+    {
+      "src": "/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
