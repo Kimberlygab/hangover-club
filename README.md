@@ -62,3 +62,6 @@ Este projeto está configurado para implantação na Vercel. Siga estas etapas:
 4. Na raiz do projeto, execute `vercel`
 5. Ou conecte seu repositório GitHub à Vercel para implantação automática
 6. Configure as variáveis de ambiente listadas acima no painel da Vercel
+
+7. # Fresh Deploy Attempt 🚀
+
